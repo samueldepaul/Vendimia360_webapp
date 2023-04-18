@@ -23,7 +23,7 @@ def img_to_bytes(img_path):
     return encoded
 
 header_html = "<img src='data:image/png;base64,{}' class='img-fluid'>".format(
-    img_to_bytes(r"\Users\Samuel\Downloads\Group 1header (2) (1).jpg")
+    img_to_bytes(r"Group 1header (2) (1).jpg")
 )
 st.markdown(
     header_html, unsafe_allow_html=True,
