@@ -31,7 +31,7 @@ st.markdown(
 
 st.title("Base de Datos")
 st.markdown(
-    f'<div style="background-color:#FFBFBF; padding: 10px 25px; border-radius: 5px;"><h4 style="color:#320014; font-size: 16px;">¡Bienvenido a la base de datos de tus viñas en VitiPredict! Aquí tendrás acceso a información detallada y actualizada de tus fincas. Podrás realizar consultas básicas, filtrar y ordenar los datos según tus necesidades, y visualizarlos de manera numérica. </h4></div>',
+    f'<div style="background-color:#FFBFBF; padding: 10px 25px; border-radius: 5px;"><h4 style="color:#320014; font-size: 16px;">¡Bienvenido a la base de datos de tus viñas en Vendimia360! Aquí tendrás acceso a información detallada y actualizada de tus fincas. Podrás realizar consultas básicas, filtrar y ordenar los datos según tus necesidades, y visualizarlos de manera numérica. </h4></div>',
     unsafe_allow_html=True
 )
 st.markdown("<hr>", unsafe_allow_html=True)
