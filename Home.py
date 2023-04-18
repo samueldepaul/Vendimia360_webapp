@@ -31,7 +31,7 @@ st.markdown(
 
 st.title("Página principal")
 st.markdown(
-    f'<div style="background-color:#FFBFBF; padding: 10px 25px; border-radius: 5px;"><h4 style="color:#320014; font-size: 16px;">Bienvenido a la página principal de VitiPredict. En esta sección, podrás tener acceso a información histórica de tus fincas. Podrás navegar entre diferentes visualizaciones para comprender mejor el comportamiento de tus viñedos en el pasado. Observa cómo ha evolucionado la producción de uvas, la cosecha en las diferentes zonas y otros datos relevantes que te ayudarán a tomar decisiones informadas para el futuro de tus cultivos. ¡Explora y descubre con VitiPredict!</h4></div>',
+    f'<div style="background-color:#FFBFBF; padding: 10px 25px; border-radius: 5px;"><h4 style="color:#320014; font-size: 16px;">Bienvenido a la página principal de Vendimia360. En esta sección, podrás tener acceso a información histórica de tus fincas. Podrás navegar entre diferentes visualizaciones para comprender mejor el comportamiento de tus viñedos en el pasado. Observa cómo ha evolucionado la producción de uvas, la cosecha en las diferentes zonas y otros datos relevantes que te ayudarán a tomar decisiones informadas para el futuro de tus cultivos. ¡Explora y descubre con Vendimia360!</h4></div>',
     unsafe_allow_html=True
 )
 st.markdown("<hr>", unsafe_allow_html=True)
