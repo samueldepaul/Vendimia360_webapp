@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/samueldepaul/Vendimia360_webapp/blob/main/img_readme/header.jpg?raw=true" alt="Cabecera del proyecto" />
 </p>
+
 # Repositorio de la WebApp Vendimia360
 
 ## Link a la WebApp:
